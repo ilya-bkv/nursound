@@ -9,9 +9,12 @@ function App() {
       <div className={styles.heroWrapper}>
         <div className={styles.text}>
           <h1 className={styles.glitch} data-text={'NURSOUND'}>NURSOUND</h1>
+          <div className={styles.hr}/>
           <h2 className={styles.glitch} data-text={'Նռան ձայնը'}>Նռան ձայնը</h2>
-          <div>[28/03/2024] Common Ground</div>
-          <div>Evening of experimental music</div>
+          <div className={styles.subtitle}>
+            <div>[28/03/2024 7PM] Common Ground</div>
+            <div>Evening of experimental music</div>
+          </div>
         </div>
       </div>
     </>
