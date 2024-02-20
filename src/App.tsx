@@ -8,7 +8,7 @@ function App() {
       <div className={styles.pomegranate} style={{backgroundImage: `url(${pomegranate})`}}/>
       <div className={styles.heroWrapper}>
         <div className={styles.text}>
-          <h1 className={styles.glitch} data-text={'NURSOUND'}>NURSOUND</h1>
+          <h1 className={styles.glitch} data-text={'The Sound of Pomegranates'}>The Sound of Pomegranates</h1>
           <div className={styles.hr}/>
           <h2 className={styles.glitch} data-text={'Նռան ձայնը'}>Նռան ձայնը</h2>
           <div className={styles.subtitle}>
