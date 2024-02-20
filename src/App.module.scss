@@ -5,11 +5,10 @@
   --bg: #181717;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Oswald");
 :global(html, body, #root) {
   background-color: var(--bg);
   width: 100%;
-  font-family: 'Oswald', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial
 }
 
 .heroWrapper {
