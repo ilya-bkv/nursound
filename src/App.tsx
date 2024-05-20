@@ -1,5 +1,4 @@
-// import pomegranate from './assets/pomegranate.png'
-import afisha from './assets/afisha.jpeg'
+import afisha from './assets/afisha.png'
 import styles from './App.module.scss'
 
 function App() {
