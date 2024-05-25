@@ -34,7 +34,7 @@ function App() {
 
         </iframe>
       </div>
-      <div className={styles.heroWrapper}>
+      {/*<div className={styles.heroWrapper}>*/}
         {/*<div className={styles.text}>*/}
         {/*<h1 className={styles.glitch} data-text={'The Sound of Pomegranates'}>The Sound of Pomegranates</h1>*/}
         {/*<div className={styles.hr}/>*/}
@@ -44,7 +44,7 @@ function App() {
         {/*  <div>Evening of experimental music</div>*/}
         {/*</div>*/}
         {/*</div>*/}
-      </div>
+      {/*</div>*/}
     </>
   )
 }
