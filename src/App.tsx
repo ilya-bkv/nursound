@@ -6,9 +6,22 @@ function App() {
   return (
     <>
       <div className={styles.pomegranate}
-           // style={{backgroundImage: `url(${afisha})`}}
+        // style={{backgroundImage: `url(${afisha})`}}
       >
-        <h1>Global Drone Day / Vanadzor / Boo Café</h1>
+        <h1>Global Drone Day / Vanadzor / Boo Café (part2)</h1>
+
+        <iframe
+          className={styles.stream}
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/7LF90NCnkl4?si=bOUYuSvkCr83Krrb"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerPolicy="strict-origin-when-cross-origin" allowFullScreen>
+
+        </iframe>
+        <h2>Global Drone Day / Vanadzor / Boo Café (part1)</h2>
 
         <iframe
           className={styles.stream}
