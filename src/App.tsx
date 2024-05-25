@@ -21,8 +21,7 @@ function App() {
           referrerPolicy="strict-origin-when-cross-origin" allowFullScreen>
 
         </iframe>
-        <h2>Global Drone Day / Vanadzor / Boo Café (part1)</h2>
-
+        <h2 style={{marginTop: '4rem'}}>Global Drone Day / Vanadzor / Boo Café (part1)</h2>
         <iframe
           className={styles.stream}
           width="560"
