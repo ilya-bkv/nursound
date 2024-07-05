@@ -1,4 +1,4 @@
-import afisha from './assets/afisha.jpg'
+import afisha from './assets/afisha_moychay.jpg'
 import styles from './App.module.scss'
 
 function App() {
