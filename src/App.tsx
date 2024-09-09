@@ -1,4 +1,4 @@
-import afisha from './assets/dilirock.png'
+import afisha from './assets/14sent.jpg'
 import styles from './App.module.scss'
 
 function App() {
